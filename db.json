@@ -1,0 +1,124 @@
+{
+   "mahasiswa" : 
+  [{
+    "id": 1,
+    "name": "Rozalie Daville",
+    "gender": "Female"
+  }, {
+    "id": 2,
+    "name": "Robbin Poundesford",
+    "gender": "Female"
+  }, {
+    "id": 3,
+    "name": "Tab Sprigings",
+    "gender": "Male"
+  }, {
+    "id": 4,
+    "name": "Sarette Pickrill",
+    "gender": "Female"
+  }, {
+    "id": 5,
+    "name": "Mikey Gann",
+    "gender": "Male"
+  }, {
+    "id": 6,
+    "name": "Maurene Flecknoe",
+    "gender": "Female"
+  }, {
+    "id": 7,
+    "name": "Myca Trafford",
+    "gender": "Male"
+  }, {
+    "id": 8,
+    "name": "Aurelie Bartels-Ellis",
+    "gender": "Female"
+  }, {
+    "id": 9,
+    "name": "Edan Defau",
+    "gender": "Male"
+  }, {
+    "id": 10,
+    "name": "Batsheva Threader",
+    "gender": "Female"
+  }, {
+    "id": 11,
+    "name": "Eveleen Damant",
+    "gender": "Female"
+  }, {
+    "id": 12,
+    "name": "Pip Itzcovich",
+    "gender": "Male"
+  }, {
+    "id": 13,
+    "name": "Fern Linny",
+    "gender": "Female"
+  }, {
+    "id": 14,
+    "name": "Base Crehan",
+    "gender": "Male"
+  }, {
+    "id": 15,
+    "name": "Sarette Gutteridge",
+    "gender": "Female"
+  }, {
+    "id": 16,
+    "name": "Norbert O'Reagan",
+    "gender": "Male"
+  }, {
+    "id": 17,
+    "name": "Cassandry Farley",
+    "gender": "Female"
+  }, {
+    "id": 18,
+    "name": "Aldon Baseke",
+    "gender": "Male"
+  }, {
+    "id": 19,
+    "name": "Micky Mobbs",
+    "gender": "Male"
+  }, {
+    "id": 20,
+    "name": "Kory Klambt",
+    "gender": "Male"
+  }, {
+    "id": 21,
+    "name": "Lamond Gallier",
+    "gender": "Male"
+  }, {
+    "id": 22,
+    "name": "Noland L'Hommee",
+    "gender": "Male"
+  }, {
+    "id": 23,
+    "name": "Hilly Tift",
+    "gender": "Male"
+  }, {
+    "id": 24,
+    "name": "Phillida Stubley",
+    "gender": "Female"
+  }, {
+    "id": 25,
+    "name": "Eada Pates",
+    "gender": "Female"
+  }, {
+    "id": 26,
+    "name": "Cortie Buyers",
+    "gender": "Male"
+  }, {
+    "id": 27,
+    "name": "Lolly Philipp",
+    "gender": "Female"
+  }, {
+    "id": 28,
+    "name": "Eudora Curless",
+    "gender": "Female"
+  }, {
+    "id": 29,
+    "name": "Kinsley Carwithim",
+    "gender": "Male"
+  }, {
+    "id": 30,
+    "name": "Nariko Shalders",
+    "gender": "Female"
+  }]
+}
